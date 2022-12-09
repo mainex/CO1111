@@ -1,1 +1,2 @@
-# The Computing Challenge project page
+# CO1111
+The Computing Challenge project page
